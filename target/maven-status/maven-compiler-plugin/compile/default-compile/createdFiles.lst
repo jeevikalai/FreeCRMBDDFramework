@@ -1,0 +1,4 @@
+com\qa\pageobjects\homepageobjects.class
+com\qa\pageobjects\loginpageobject.class
+TestUtils\TestBase.class
+com\qa\pageobjects\contactspageobject.class
