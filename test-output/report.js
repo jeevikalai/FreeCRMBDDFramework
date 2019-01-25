@@ -107,7 +107,7 @@ formatter.match({
   "location": "loginstepdefinition.user_launches_the_browser()"
 });
 formatter.result({
-  "duration": 217963431269,
+  "duration": 66396020311,
   "status": "passed"
 });
 formatter.match({
@@ -124,21 +124,21 @@ formatter.match({
   "location": "loginstepdefinition.user_enter_username_and_password_click_on_login(String,String)"
 });
 formatter.result({
-  "duration": 23742155203,
+  "duration": 12638037488,
   "status": "passed"
 });
 formatter.match({
   "location": "loginstepdefinition.user_is_on_homepage()"
 });
 formatter.result({
-  "duration": 1318429731,
+  "duration": 351859050,
   "status": "passed"
 });
 formatter.match({
   "location": "contactsstepdef.click_on_Contacts_Tab_and_delete_the_contacts()"
 });
 formatter.result({
-  "duration": 7215309988,
+  "duration": 16676737845,
   "status": "passed"
 });
 });

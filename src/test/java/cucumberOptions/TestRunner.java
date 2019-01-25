@@ -1,9 +1,11 @@
 package cucumberOptions;
 
-  import cucumber.api.CucumberOptions;
+  import org.junit.runner.RunWith;
+
+import cucumber.api.CucumberOptions;
+import cucumber.api.junit.Cucumber;
  
- 
-//@RunWith(Cucumber.class)
+@RunWith(Cucumber.class)
 @CucumberOptions(  
 	    features = "C:\\Users\\jeevi\\seleniumproject\\CucumberFramework\\src\\test\\java\\Feature\\login1.feature",
 	    glue="StepDefinition",
